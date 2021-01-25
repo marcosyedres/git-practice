@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Esta es la página 2
+=======
+Esta es la página 2
+Añadimos la segunda línea
+>>>>>>> feature/5--adding-lines

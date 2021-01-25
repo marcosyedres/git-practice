@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Ésta es la página número 3
+=======
+Ésta es la página número 3
+Añadimos la tercera línea 
+>>>>>>> feature/5--adding-lines
